@@ -1,2 +1,6 @@
 def (foo)
   result
+
+
+
+  def (foo)
