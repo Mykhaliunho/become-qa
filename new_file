@@ -1,6 +1,12 @@
 def (foo)
   result
 
+<<<<<<< HEAD
 
 
   def (foo)
+=======
+der (foo)
+   pull
+   
+>>>>>>> testing2
